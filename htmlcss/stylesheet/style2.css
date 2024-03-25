@@ -1,0 +1,22 @@
+*{
+    background-color: black;
+    color:#84c754;
+    font-family: 'Courier New', Courier, monospace;
+}
+.borders{
+    color: white;
+    border-style: ridge;
+}
+#section3{
+    color: white;
+}
+.link{
+      color:white;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: bold;
+}
+
+
+
+

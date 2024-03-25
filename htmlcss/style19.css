@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(165, 165, 236);
+}
+
+.section{
+    border-style: ridge;
+}
+h1{
+    text-align: center;
+}
+submit{
+    background-color: blue;
+    color:white;
+}
+reset{
+    color:blue;
+}
